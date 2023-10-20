@@ -1,0 +1,18 @@
+{
+	"name": "@hyperupcall/markdownlint-config",
+	"version": "0.1.0",
+	"scripts": {
+		"lint": "eslint"
+	},
+	"exports": {
+		"import": "./.markdownlint.mjs",
+		"require": "./.markdownlint.cjs"
+	},
+	"devDependencies": {
+		"@hyperupcall/prettier-config": "^0.7.0",
+		"eslint": "^8.18.0",
+		"eslint-config-prettier": "^8.5.0",
+		"prettier": "^3.0.3",
+		"prettier-plugin-pkg": "^0.18.0"
+	}
+}
