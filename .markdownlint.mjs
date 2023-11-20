@@ -1,6 +1,6 @@
 export default {
-	"no-hard-tabs": {
-		"code_blocks": false
+	'no-hard-tabs': {
+		code_blocks: false,
 	},
-	"line-length": false
+	'line-length': false,
 }
