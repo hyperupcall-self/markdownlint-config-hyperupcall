@@ -1,6 +1,6 @@
 # markdownlint-config-hyperupcall
 
-Edwin's [Stylelint](https://stylelint.io) configuration.
+Edwin's [Markdownlint](https://github.com/DavidAnson/markdownlint) configuration.
 
 ## Install
 
@@ -10,16 +10,10 @@ pnpm i -D @hyperupcall/markdownlint-config
 
 ## Usage
 
-In `.markdownlintrc.cjs`:
+In `.markdownlint.json`:
 
 ```js
-module.exports = require('@hyperupcall/markdownlint-config')
-```
-
-In `.markdownlintrc.mjs`:
-
-```js
-import markdownlintConfig from '@hyperupcall/markdownlint-config'
-
-export default markdownlintConfig
+{
+	"extends": "./node_modules/@hyperupcall/markdownlint-config/.markdownlint.json"
+}
 ```

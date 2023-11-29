@@ -1,6 +1,0 @@
-module.exports = {
-	"no-hard-tabs": {
-		"code_blocks": false
-	},
-	"line-length": false
-}
