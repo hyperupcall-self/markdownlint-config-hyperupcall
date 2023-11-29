@@ -1,6 +1,6 @@
 # markdownlint-config-hyperupcall
 
-Edwin's [Markdownlint](https://github.com/DavidAnson/markdownlint) configuration.
+Edwin's [markdownlint](https://github.com/DavidAnson/markdownlint) configuration.
 
 ## Install
 
