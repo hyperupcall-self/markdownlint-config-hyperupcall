@@ -1,6 +1,6 @@
 {
 	"name": "@hyperupcall/markdownlint-config",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"exports": {
 		"import": "./.markdownlint.mjs",
 		"require": "./.markdownlint.cjs"
