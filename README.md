@@ -1,4 +1,4 @@
-# markdownlint-config-hyperupcall
+# @hyperupcall/markdownlint-config
 
 Edwin's [markdownlint](https://github.com/DavidAnson/markdownlint) configuration.
 
